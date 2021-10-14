@@ -1,7 +1,7 @@
 ### Oi, eu sou o John :D
 
 - 🎓 Graduando no curso de Ciência da Computação pela Universidade Federal do Maranhão (UFMA)
-- 📚 Atualmente estudando PHP e Java
+- 📚 Atualmente estudando PHP e POO
 - ⚡ Fun fact: Mono Thresh
 
 <div>
