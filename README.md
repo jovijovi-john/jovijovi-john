@@ -1,7 +1,7 @@
 ### Oi, eu sou o John :D
 
 - 🎓 Graduando no curso de Ciência da Computação pela Universidade Federal do Maranhão (UFMA)
-- 📚 Atualmente estudando Javascript, React-Native(CLI e Expo), Firebase e SQL
+- 📚 Atualmente estudando Javascript, React-Native(CLI e Expo), Firebase e Node Js + Express
 - ⚡ Fun fact: Mono Thresh
 
 <div>
