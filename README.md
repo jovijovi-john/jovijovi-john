@@ -21,7 +21,7 @@
   <img align="center" alt="John-React_Native" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="John-NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
   <img align="center" alt="John-Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
-  <img align="right" alt="John-Thresh" src="https://media.discordapp.net/attachments/889159911735455745/889160769416069140/gifthresh.gif">
+  <img align="right" alt="John-Thresh" src="https://cdn.discordapp.com/attachments/889159911735455745/889160769416069140/gifthresh.gif">
 </div>
  
   ##
