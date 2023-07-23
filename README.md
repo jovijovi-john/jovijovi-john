@@ -1,8 +1,7 @@
 ### Oi, eu sou o John :D
 
 - 🎓 Graduando no curso de Ciência da Computação pela Universidade Federal do Maranhão (UFMA)
-- 📚 Atualmente estudando Java, Spring Boot, Next, Node Js + Express + Prisma, 
-- ⚡ Fun fact: Mono Thresh
+- 📚 Trabalho com React, CSS, Typescript, Java, Spring Boot, Next, Node JS, Nest, Prisma, MySQL e Postgres.
 
 <div>
   <a href="https://github.com/jovijovi-john">
